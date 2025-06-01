@@ -94,31 +94,13 @@ assets/
 
 ---
 
-## 🤝 Contribution
-
-Contributions are welcome! Here’s how you can help:
-
-1. Fork the repository  
-2. Create your feature branch (`git checkout -b feature/YourFeature`)  
-3. Commit your changes (`git commit -m 'Add some feature'`)  
-4. Push to the branch (`git push origin feature/YourFeature`)  
-5. Open a Pull Request  
-
-Please ensure your code follows Dart best practices and is well documented.
-
----
-
-## 📝 License
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
-
----
 
 ## 📬 Contact
 
 **Harshavardhan**  
 GitHub: [https://github.com/Harsha-0710](https://github.com/Harsha-0710)  
-Email: *your-email@example.com* (optional)  
+Email: *harshaoffcl@gmail.com*
+Phone: *6374912165*
 
 ---
 
