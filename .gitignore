@@ -1,0 +1,13 @@
+*.iml
+*.lock
+.dart_tool/
+.packages
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+.pub-cache/
+.idea/
+android/.gradle
+android/app/debug
+android/app/profile
+android/app/release
